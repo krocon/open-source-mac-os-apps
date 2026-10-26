@@ -15278,6 +15278,25 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "title": "Comic Commander",
+            "short_description": "Comic library browser and reader for CBZ, CBR, CB7, CBT and PDF that shows your collection as a cover wall or bookshelf.",
+            "categories": [
+                "images"
+            ],
+            "repo_url": "https://github.com/krocon/comic-commander-tauri",
+            "icon_url": "https://raw.githubusercontent.com/krocon/comic-commander-tauri/main/src-tauri/icons/icon.png",
+            "screenshots": [
+                "https://krocon.de/products/comiccommander/img/grid.png",
+                "https://krocon.de/products/comiccommander/img/shelf.png",
+                "https://krocon.de/products/comiccommander/img/view.png"
+            ],
+            "official_site": "https://krocon.de/products/comiccommander/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
         }
     ]
 }
